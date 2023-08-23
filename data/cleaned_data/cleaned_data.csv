@@ -1,0 +1,26 @@
+id,first_name,last_name,position,id,abbreviation,city,conference,division,team_name
+14,Ike,Anigbogu,C,12,IND,Indiana,East,Central,Indiana Pacers
+25,Ron,Baker,G,20,NYK,New York,East,Atlantic,New York Knicks
+47,Jabari,Bird,G,2,BOS,Boston,East,Atlantic,Boston Celtics
+67,MarShon,Brooks,G,15,MEM,Memphis,West,Southwest,Memphis Grizzlies
+71,Lorenzo,Brown,G,28,TOR,Toronto,East,Atlantic,Toronto Raptors
+90,Omri,Casspi,F,15,MEM,Memphis,West,Southwest,Memphis Grizzlies
+1,Alex,Abrines,G,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder
+119,Tyler,Davis,C,21,OKC,Oklahoma City,West,Northwest,Oklahoma City Thunder
+149,Keenan,Evans,G,9,DET,Detroit,East,Central,Detroit Pistons
+179,Marcin,Gortat,C,13,LAC,LA,West,Pacific,LA Clippers
+1593,Andrew,Bogut,F,10,GSW,Golden State,West,Pacific,Golden State Warriors
+241,Amir,Johnson,C-F,23,PHI,Philadelphia,East,Atlantic,Philadelphia 76ers
+392,Malachi,Richardson,G,29,UTA,Utah,West,Northwest,Utah Jazz
+281,Zach,Lofton,G,9,DET,Detroit,East,Central,Detroit Pistons
+263,Kosta,Koufos,C,26,SAC,Sacramento,West,Pacific,Sacramento Kings
+382,Billy,Preston,F,6,CLE,Cleveland,East,Central,Cleveland Cavaliers
+384,Zhou,Qi,F-C,11,HOU,Houston,West,Southwest,Houston Rockets
+388,Zach,Randolph,F,26,SAC,Sacramento,West,Pacific,Sacramento Kings
+430,DJ,Stephens,G-F,15,MEM,Memphis,West,Southwest,Memphis Grizzlies
+437,Milos,Teodosic,G,13,LAC,LA,West,Pacific,LA Clippers
+448,Gary,Trent Jr.,G,25,POR,Portland,West,Northwest,Portland Trail Blazers
+494,Michael,Smith,,2,BOS,Boston,East,Atlantic,Boston Celtics
+495,John,Morton,,6,CLE,Cleveland,East,Central,Cleveland Cavaliers
+496,Howard,Wright,,1,ATL,Atlanta,East,Southeast,Atlanta Hawks
+497,Michael,Ansley,,22,ORL,Orlando,East,Southeast,Orlando Magic
